@@ -47,13 +47,13 @@ $ perl nipe.pl status
 
 # Community publications
 
-1. [Haz pasar todo tu trafico por la red TOR gracias a Nipe](https://www.wifi-libre.com/topic-269-haz-pasar-todo-tu-trafico-por-la-red-tor-gracias-a-nipe.html){:target="_blank"}
-2. [Nipe - Script To Redirect All Traffic From The Machine To The Tor Network](http://www.kitploit.com/2015/12/nipe-script-to-redirect-all-traffic.html){:target="_blank"}
-3. [Rediriger tout le trafic sur le réseau TOR](https://memo-linux.com/rediriger-tout-le-trafic-sur-le-reseau-tor/){:target="_blank"}
-4. [Faites passer tout votre trafic via Tor avec ce script](https://korben.info/faites-passer-tout-votre-trafic-via-tor-avec-ce-script.html){:target="_blank"}
-5. [Nipe – Redirect All Traffic To The Tor Network](https://hacktrivia.com/nipe-redirect-traffic-tor-network/){:target="_blank"}
-6. [Cómo enrutar todo el tráfico a través de Tor](https://mpast.es/como-enrutar-todo-el-trafico-a-traves-de-tor){:target="_blank"}
-7. [Dirige todo tu tráfico por tor](https://www.taringa.net/posts/hazlo-tu-mismo/19571093/Dirige-todo-tu-trafico-por-tor.html){:target="_blank"}
+1. [Haz pasar todo tu trafico por la red TOR gracias a Nipe](https://www.wifi-libre.com/topic-269-haz-pasar-todo-tu-trafico-por-la-red-tor-gracias-a-nipe.html)
+2. [Nipe - Script To Redirect All Traffic From The Machine To The Tor Network](http://www.kitploit.com/2015/12/nipe-script-to-redirect-all-traffic.html)
+3. [Rediriger tout le trafic sur le réseau TOR](https://memo-linux.com/rediriger-tout-le-trafic-sur-le-reseau-tor/)
+4. [Faites passer tout votre trafic via Tor avec ce script](https://korben.info/faites-passer-tout-votre-trafic-via-tor-avec-ce-script.html)
+5. [Nipe – Redirect All Traffic To The Tor Network](https://hacktrivia.com/nipe-redirect-traffic-tor-network/)
+6. [Cómo enrutar todo el tráfico a través de Tor](https://mpast.es/como-enrutar-todo-el-trafico-a-traves-de-tor)
+7. [Dirige todo tu tráfico por tor](https://www.taringa.net/posts/hazlo-tu-mismo/19571093/Dirige-todo-tu-trafico-por-tor.html)
 
 # Bugs
 
