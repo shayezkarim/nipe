@@ -45,6 +45,13 @@ $ perl nipe.pl status
 
 ```
 
+## Restart
+
+```bash
+$ perl nipe.pl restart
+
+```
+
 # Community publications
 
 1. [Haz pasar todo tu trafico por la red TOR gracias a Nipe](https://www.wifi-libre.com/topic-269-haz-pasar-todo-tu-trafico-por-la-red-tor-gracias-a-nipe.html)
