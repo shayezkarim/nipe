@@ -61,6 +61,7 @@ $ perl nipe.pl restart
 5. [Nipe – Redirect All Traffic To The Tor Network](https://hacktrivia.com/nipe-redirect-traffic-tor-network/)
 6. [Cómo enrutar todo el tráfico a través de Tor](https://mpast.es/como-enrutar-todo-el-trafico-a-traves-de-tor)
 7. [Dirige todo tu tráfico por tor](https://www.taringa.net/posts/hazlo-tu-mismo/19571093/Dirige-todo-tu-trafico-por-tor.html)
+8. [Fully Anonymize Your Entire System with Tor and Nipe](https://steemit.com/technology/@mrunderstood/fully-anonymize-your-entire-system-with-tor-and-nipe-absolutely-free)
 
 # Bugs
 
